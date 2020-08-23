@@ -18,7 +18,7 @@
 <img align="left" alt="React" src="https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=white" />
 <img align="left" alt="Next" src="https://img.shields.io/badge/-NEXT-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img align="left" alt="vscode" src="https://img.shields.io/badge/-VS%20Code-323330?style=flat-square&logo=visual-studio-code&logoColor=0078d7" />
-<img align="left" alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 
 
 ### Connect with me:
