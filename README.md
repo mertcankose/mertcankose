@@ -2,8 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mertcankose_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mertcankose_)
 
-- 🌱 I’m currently learning Vue 🚀
-- 🥅 2020 Goals: Get a job and make a good app
+- 🌱 I’m currently working with Vue 🚀
+- 🥅 2021 Goals:Learn React Native!
 - ⚡ Fun fact: I love to watch TV Series
 
 ### Languages and Tools:
