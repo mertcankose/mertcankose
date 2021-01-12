@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mertcankose_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mertcankose_)
 
 - 🌱 I’m currently working with Vue 🚀
-- 🥅 2021 Goals: Learn React Native!
+- 🥅 2021 Goals: Publish at least one Full Stack Web-Mobile App!
 - ⚡ Fun fact: I love to watch TV Series
 
 ### Languages and Tools:
