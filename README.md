@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**mertcankose/mertcankose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can check my website to see my projects whose codes I cannot share publicly!
 
-Here are some ideas to get you started:
+## 📌 GitHub Stats And Top Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=mertcankose&show_icons=true&count_private=true&hide=contribs,issues" alt="mertcankose's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcankose&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
+
+
+## 🌐 My Website
+https://mertcankose.com
+
+## 📫 How to Reach Me
+
+
+[![Linkedin Badge](https://img.shields.io/badge/mertcankose-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mertcankose-/)
+
+
+My google play store [https://play.google.com/store/apps/developer?id=FoxyCode&hl=en](https://play.google.com/store/apps/developer?id=Mertcan+K%C3%B6se)
